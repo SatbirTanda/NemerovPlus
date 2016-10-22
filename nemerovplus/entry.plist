@@ -1,0 +1,10 @@
+{
+    entry = {
+	bundle = NemerovPlus;
+	cell = PSLinkCell;
+	detail = NemerovPlusListController;
+	icon = NemerovPlus.png;
+	isController = 1;
+	label = NemerovPlus;
+    };
+}
